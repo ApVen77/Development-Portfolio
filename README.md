@@ -1,18 +1,20 @@
 # Development-Portfolio
 
 ## OverView 
+*This personal portfolio project is a documentation of my journey in learning web development. It includes various web development projects I have created, such as static websites, web applications, and mobile-responsive designs. The portfolio showcases my skills in HTML, CSS, JavaScript, and other web development technologies. It also includes information about my learning process, the challenges I faced, and the solutions I implemented. The project highlights my passion for web development and my dedication to continuous learning and improvement.*
 
 **Developer:** *April Long* 
-h2 (overview)
-italisized text of our description '   '
 
-h3 (developer: name)
-h3 (institue: name) 
-h3 (date of development 
+**Institution:** *Stackroute*
 
-ul (languages we used)
+**Date:** *May 4, 2023
 
-link to our page 
+**Languages Used**
+
+-HTML 📒
+
+-CSS 🖊
+
+-JavaScript 🤖
 
 
-*one of your choice 
